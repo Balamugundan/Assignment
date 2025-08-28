@@ -117,12 +117,12 @@ print("Copied list:",copy_list)
 
 # Operation on tuple
 
-#### *Create a tuble*
+#### *Create a tuple*
 
 
 ```python
 tuple=(10,20,30,40,50)
-print(tuble)
+print(tuple)
 ```
 
     (10, 20, 30, 40, 50)
@@ -143,7 +143,7 @@ print("The element of the tuple is:",tuple)
 
 
 ```python
-tuble=(10,20,30,40,50)
+tuple=(10,20,30,40,50)
 print("After slicing a element:",tuple[1:4])
 
 ```
